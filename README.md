@@ -1,7 +1,8 @@
 # Team Name
 Tag line
 
-##Team Member Name 1 
+## Team Member Name 1 
+
 **Hobbies**
 ***Likes:***
 **Fav Movies:**
